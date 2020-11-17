@@ -1,8 +1,8 @@
 const express = require('express');
 const path = require('path');
-const faker = require('faker');
+// const faker = require('faker');
 
-console.log(faker.company.companyName())
+// console.log(faker.company.companyName())
 
 const app = express();
 
